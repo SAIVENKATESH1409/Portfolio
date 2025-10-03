@@ -15,7 +15,7 @@ const Hero = () => {
     };
 
     const handleResumeClick = () => {
-        window.open("https://drive.google.com/file/d/1Wospb8tenRccqem9DBZgoiD8OW0dtfIF/view?usp=sharing", "_blank");
+        window.open("https://drive.google.com/file/d/1M487RLd5zamvxeRIl47-v2K6_C8k4Nyk/view?usp=sharing", "_blank");
     };
 
     return (
