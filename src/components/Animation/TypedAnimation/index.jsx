@@ -17,8 +17,9 @@ const TypedAnimatedComponent = () => {
             {showAnimation && (
                 <TypeAnimation
                     sequence={[
-                        'I am a Full Stack Web Developer', 1000, // Waits 1s
-                        'I am a Full Stack Java Developer', 2000,
+                        'I am a Data Engineer', 1000, // Waits 1s
+                        'I am a Software Engineer', 1000,
+                        'I am a Data Analyst', 1000,
                     ]}
                     wrapper="div"
                     cursor={true}
